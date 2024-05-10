@@ -23,7 +23,6 @@ Abaixo como cada página deve ser criada e estruturada.
 
 Todas as páginas terão que seguir um padrão pré-definido. Como não aprendemos sobre CSS ainda, utilize o arquivo `template.html` para utilizar como base. Ele segue uma estrutura semelhante a image abaixo.
 
-![Estrutura](https://i.stack.imgur.com/9jI6f.gif)
 
 \* _No template tem algumas cores mas é apenas para melhor visualização. Fique a vontade para alterar da melhor forma._
 
